@@ -7,4 +7,4 @@ Play the Infamous N-Queen problem Puzzle
 
 [ ] Add Automated Solver
 
-[ ] Add Better styling (obviously)
+[ ] Add Better styling 
